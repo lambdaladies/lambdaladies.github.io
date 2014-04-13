@@ -11,16 +11,10 @@ title: Group
  height="100%">
 </iframe>
 
-<!-- <script type="text/javascript">
+<script type="text/javascript">
  document.getElementById("forum_embed").src =
   "https://groups.google.com/forum/embed/?place=forum/lambda-ladies-functional" +
   "&showsearch=true&showpopout=true&domain=lambdaladies.com&parenturl=" +
   encodeURIComponent(window.location.href);
-</script> -->
-
-<script type="text/javascript">
- document.getElementById("ll_forum_embed").src =
-  "https://groups.google.com/forum/embed/?place=forum/lambda-ladies-functional" +
-  "&showsearch=true&showpopout=true";
 </script>
 
