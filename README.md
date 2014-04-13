@@ -1,3 +1,7 @@
+# LambdaLadies.com
+
+This repository holds the source code for [http://www.lambdaladies.com](http://www.lambdaladies.com). The instructions below explain how the Jekyll theme it uses works and how to run a local copy of the website to test any proposed changes. Please send pull requests with any suggestions.
+
 # Jekyll Incorporated
 Modern Jekyll based blog. Great for companies, products or anything. See live at [blog.sendtoinc.com](http://blog.sendtoinc.com)
 
