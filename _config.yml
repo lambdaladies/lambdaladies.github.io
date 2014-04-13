@@ -14,7 +14,8 @@ inc:
   about_link:   /about/
   
   # Link Information
-  group_link: https://groups.google.com/forum/#!forum/lambda-ladies-functional 
+  group_link: /group/
+  group_join_link: http://groups.google.com/group/lambda-ladies-functional/subscribe 
   tagline:    "Join group"
   
   # Comments

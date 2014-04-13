@@ -5,10 +5,7 @@ layout: base
     
     <section>
         <div class="container">
-            <div class="lambda-logo"/>
-                <img src="/images/lambdapurple.png"/>
-            </div>
-            <h1>{{ site.inc.title }}</h1>
+            <h1><span class="main-logo"><img src="/images/{{ site.inc.logo }}"/></span>{{ site.inc.title }}</h1>
             {% if site.inc.subtitle %}<h3>{{ site.inc.subtitle }}</h3>{% endif %}
         
             {% if site.inc.twitter %}

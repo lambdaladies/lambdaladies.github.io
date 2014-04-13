@@ -34,14 +34,14 @@
     <header>
         <nav id="navigation">
             <a class="brand" href="/">
-                <img src="/images/{{ site.inc.logo }}" alt="Inc">
+                <img src="/images/{{ site.inc.logo }}" alt="logo">
             </a>
             <a href="/" class="home">Blog</a>
             {% if site.inc.group_link %}<a href="{{ site.inc.group_link }}">Group</a>{% endif %}
             {% if site.inc.about_link %}<a href="{{ site.inc.about_link }}">About</a>{% endif %}
         </nav>
-        {% if site.inc.tagline and site.inc.group_link %}<nav class="tagline">
-            <a href="{{ site.inc.group_link }}" class="btn btn-outline">{{ site.inc.tagline }}</a>
+        {% if site.inc.tagline and site.inc.group_join_link %}<nav class="tagline">
+            <a href="{{ site.inc.group_join_link }}" class="btn btn-outline">{{ site.inc.tagline }}</a>
         </nav>{% endif %}
     </header>
 </section>

@@ -5,7 +5,7 @@ subtitle: How it all began
 date:   2013-05-04 07:53:35
 tags: functional programming, online community, women in technology, women's tech groups
 
-excerpt: Lambda Ladies began in March 2013 when five women came together online to collaborate
+excerpt: Lambda Ladies began in March 2013 when five women came together online to collaborate.
 
 author:
   name: Katie Miller
