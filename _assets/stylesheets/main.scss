@@ -23,6 +23,30 @@ div.embedded {
   padding-right: 20px; 
 }
 
+/* Resources Table */
+.resource-table tbody tr:nth-child(even) td, .resource-table tbody tr.even td {
+    background:#e5ecf9;
+}
+.resource-table tbody, th, td {
+    border: 1px solid black;
+}
+.resource-table tbody td:nth-child(3) {
+    font-size: small;
+}
+.resource-table th {
+    text-align: center;
+    background: #2077b2;
+    color: white;
+}
+.resource-table td {
+    padding: 5px;
+}
+
+/* Social link fix */
+.fb_iframe_widget span { 
+  height: 26px !important; 
+}
+
 /* Bodytext font */
 $font: "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 

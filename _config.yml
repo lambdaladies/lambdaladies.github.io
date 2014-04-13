@@ -6,14 +6,16 @@ inc:
   logo:         lambdapurple.png
   
   # Group information
-  company:      Lambda Ladies 
-  url:          http://www.lambdaladies.com/
+  company:        Lambda Ladies 
+  url:            http://www.lambdaladies.com/
   # facebook:     lambdaladies 
-  twitter:      lambdaladies 
+  twitter:        lambdaladies 
   # gplus:        '101183822199340201470'
-  about_link:   /about/
-  
-  # Link Information
+  about_link:     /about/
+  resources_link: /resources/
+  talks_link:     /talks/
+
+  # Forum Information
   group_link: /group/
   group_join_link: http://groups.google.com/group/lambda-ladies-functional/subscribe 
   tagline:    "Join group"
@@ -33,7 +35,7 @@ inc:
   
  # Analytics     
   analytics:
-    google: false # Add tracking code in _includes/_google-analytics.html
+    google: true # Add tracking code in _includes/_google-analytics.html
       
       
   # Google Fonts
@@ -86,7 +88,7 @@ rdiscount:
   extensions: []
 
 redcarpet:
-  extensions: []
+  extensions: ["tables"]
 
 kramdown:
   auto_ids: true

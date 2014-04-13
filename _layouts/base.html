@@ -36,9 +36,11 @@
             <a class="brand" href="/">
                 <img src="/images/{{ site.inc.logo }}" alt="logo">
             </a>
-            <a href="/" class="home">Blog</a>
+            <a href="/" class="home">Home</a>
             {% if site.inc.group_link %}<a href="{{ site.inc.group_link }}">Group</a>{% endif %}
             {% if site.inc.about_link %}<a href="{{ site.inc.about_link }}">About</a>{% endif %}
+            {% if site.inc.resources_link %}<a href="{{ site.inc.resources_link }}">Resources</a>{% endif %}
+            {% if site.inc.talks_link %}<a href="{{ site.inc.talks_link }}">Talks</a>{% endif %}
         </nav>
         {% if site.inc.tagline and site.inc.group_join_link %}<nav class="tagline">
             <a href="{{ site.inc.group_join_link }}" class="btn btn-outline">{{ site.inc.tagline }}</a>
@@ -53,9 +55,11 @@
         
         <nav>
             <a href="{{ site.inc.url }}">{{ site.inc.company }}</a> &middot;
-            <a href="/">Blog</a> &middot;
+            <a href="/">Home</a> &middot;
             {% if site.inc.group_link %}<a href="{{ site.inc.group_link }}">Group</a> &middot; {% endif %}
             {% if site.inc.about_link %}<a href="{{ site.inc.about_link }}">About</a>{% endif %}
+            {% if site.inc.resources_link %}<a href="{{ site.inc.resources_link }}">Resources</a>{% endif %}
+            {% if site.inc.talks_link %}<a href="{{ site.inc.talks_link }}">Talks</a>{% endif %}
         </nav>
         
         <nav class="social">
