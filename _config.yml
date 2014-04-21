@@ -50,8 +50,9 @@ destination: ./_site
 plugins:     ./_plugins
 layouts:     ./_layouts
 include:     ['.htaccess']
-exclude:     []
+exclude:     ['vendor']
 timezone:    nil
+encoding:    UTF-8
 
 # Show future posts
 future:      false
