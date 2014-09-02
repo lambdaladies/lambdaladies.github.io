@@ -2,7 +2,7 @@
 layout: post
 title: Interview with Dana McCallum, Senior Engineer at Twitter 
 date:   2014-01-16 14:53:35
-tags: functional programming, scala, twitter 
+tags: functional programming, scala, twitter, profile 
 
 excerpt: Lambda Ladies' own Kelsey Gilmore-Innis met up with Dana McCallum at Twitter to find out more about her work with Scala and her functional programming pursuits. 
 
