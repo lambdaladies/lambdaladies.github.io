@@ -2,6 +2,23 @@
 
 This repository holds the source code for [http://www.lambdaladies.com](http://www.lambdaladies.com). The instructions below explain how the Jekyll theme it uses works and how to run a local copy of the website to test any proposed changes. Please send pull requests with any suggestions.
 
+To build and run the site locally:
+
+    git checkout source
+    jekyll serve
+
+To push changes to the site to GitHub and GitHub Pages:
+
+    git checkout source
+    jekyll serve
+    git add -A
+    git commit -m "Message explaining changes"
+    git branch -D master
+    git checkout -b master
+    git filter-branch --subdirectory-filter _site/ -f
+    git checkout source
+    git push --all origin
+
 # Jekyll Incorporated
 Modern Jekyll based blog. Great for companies, products or anything. See live at [blog.sendtoinc.com](http://blog.sendtoinc.com)
 
