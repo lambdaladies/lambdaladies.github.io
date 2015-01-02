@@ -12,7 +12,7 @@ title: Group
 </iframe>
 
 <script type="text/javascript">
- document.getElementById("forum_embed").src =
+ document.getElementById("ll_forum_embed").src =
   "https://groups.google.com/forum/embed/?place=forum/lambda-ladies-functional" +
   "&showsearch=true&showpopout=true&domain=lambdaladies.com&parenturl=" +
   encodeURIComponent(window.location.href);
