@@ -3,14 +3,7 @@ layout: embed
 title: Group 
 ---
 
-<iframe id="ll_forum_embed"
- src="javascript:void(0)"
- scrolling="no"
- frameborder="0">
- width="100%"
- height="100%">
-</iframe>
-
+<iframe id="ll_forum_embed" src="javascript:void(0)" scrolling="no" frameborder="0" width="100%" height="100%"></iframe>
 <script type="text/javascript">
  document.getElementById("ll_forum_embed").src =
   "https://groups.google.com/forum/embed/?place=forum/lambda-ladies-functional" +
