@@ -14,7 +14,7 @@ title: Group
 <script type="text/javascript">
  document.getElementById("ll_forum_embed").src =
   "https://groups.google.com/forum/embed/?place=forum/lambda-ladies-functional" +
-  "&showsearch=true&showpopout=true&domain=lambdaladies.com&parenturl=" +
+  "&showsearch=true&showpopout=true&parenturl=" +
   encodeURIComponent(window.location.href);
 </script>
 
