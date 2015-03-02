@@ -20,7 +20,11 @@ It's always fun to attend a conference and run into a number of Lambda Ladies. T
 
 - OSCON - There were a number of Lambda Ladies speaking at [OSCON 2014](http://www.oscon.com/oscon2014) in Portland, OR, so we decided to hold a dinner. Thanks to [PuppetLabs](https://puppetlabs.com/) for sponsoring this time. Several of us swung by the conference party at the PuppetLabs offices after dinner.
 
+<img src="/images/oscon-dinner.jpg" style="width:600px;" alt="OSCON Lambda Ladies dinner"/>
+
 - Strange Loop - There were so many Lambda Ladies speaking, more attending, and many new friends introduced to Lambda Ladies at [Strange Loop](https://thestrangeloop.com/) in St Louis in September 2014. So many, in fact, that we threw a party instead of a dinner. We went bowling! [Fastly](http://www.fastly.com/) was our sponsor for this great event.
+
+<img src="/images/strangeloop-party.jpg" style="width:600px;" alt="Strange Loop Lambda Ladies party"/>
 
 - Clojure/Conj - In November 2014, Lambda Ladies and new friends [had dinner](http://annapawlicka.com/my-first-conj/) at the [Clojure/Conj](http://clojure-conj.org/), sponsored by my employer, [LivingSocial](https://www.livingsocial.com). [Brick Alloy](http://brickalloy.com/) sponsored, also, as it regularly does. Afterward, we all walked over to the Crime Museum for the conference party.
 
