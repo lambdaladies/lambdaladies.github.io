@@ -6,29 +6,37 @@
     <atom:link href="http://www.lambdaladies.com/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Mon, 02 Mar 2015 22:33:07 +0000</pubDate>
-    <lastBuildDate>Mon, 02 Mar 2015 22:33:07 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Mar 2015 22:58:59 +0000</pubDate>
+    <lastBuildDate>Mon, 02 Mar 2015 22:58:59 +0000</lastBuildDate>
 
     
     
     <item>
       <title>A Year of Lambda Ladies Dinners</title>
-      <link>http://www.lambdaladies.com/2015/03/01/a-year-of-lambda-ladies-dinners/</link>
-      <pubDate>Sun, 01 Mar 2015 12:00:00 +0000</pubDate>
+      <link>http://www.lambdaladies.com/2015/03/02/a-year-of-lambda-ladies-dinners/</link>
+      <pubDate>Mon, 02 Mar 2015 12:00:00 +0000</pubDate>
       <author></author>
-      <guid>http://www.lambdaladies.com/2015/03/01/a-year-of-lambda-ladies-dinners</guid>
-      <description>&lt;h2&gt;A year of Lambda Ladies dinners&lt;/h2&gt;
-
-&lt;p&gt;It’s always fun to attend a conference and run into a number of Lambda Ladies. That has happened to me a number of times over the last year.&lt;/p&gt;
+      <guid>http://www.lambdaladies.com/2015/03/02/a-year-of-lambda-ladies-dinners</guid>
+      <description>&lt;p&gt;It&amp;#39;s always fun to attend a conference and run into a number of Lambda Ladies. That has happened to me several times over the past year.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Clojure/West - In March 2014, &lt;a href=&quot;https://www.youtube.com/playlist?list=PLZdCLR02grLp__wRg5OTavVj4wefg69hM&quot;&gt;Clojure/West&lt;/a&gt; was held in San Francisco. A few Lambda Ladies came by and new friends were recruited. Kelsey organized an impromptu dinner where even more local Bay Area Lambda Ladies joined. &lt;a href=&quot;http://cognitect.com/&quot;&gt;Cognitect&lt;/a&gt; were kind enough to sponsor dinner for us. We had a full house at dinner, and then many of us stopped by the conference party afterward.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;OSCON - There were a number of Lambda Ladies speaking at &lt;a href=&quot;http://www.oscon.com/oscon2014&quot;&gt;OSCON 2014&lt;/a&gt; in Portland, OR, so we had a dinner then, also. Thanks to &lt;a href=&quot;https://puppetlabs.com/&quot;&gt;PuppetLabs&lt;/a&gt; this time. Several of us swung by the conference party at the PuppetLabs offices after dinner.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Strange Loop - So many Lambda Ladies speaking, more attending, and many new friends introduced to Lambda Ladies at &lt;a href=&quot;https://thestrangeloop.com/&quot;&gt;Strange Loop&lt;/a&gt; in St. Louis in September 2014. So many, in fact, that we threw a party instead of a dinner. We went bowling! &lt;a href=&quot;http://www.fastly.com/&quot;&gt;Fastly&lt;/a&gt; was our sponsor for this great event.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Clojure/Conj - In November 2014, Lambda Ladies and new friends &lt;a href=&quot;http://annapawlicka.com/my-first-conj/&quot;&gt;had dinner&lt;/a&gt; at the &lt;a href=&quot;http://clojure-conj.org/&quot;&gt;Clojure/Conj&lt;/a&gt;, sponsored by my employer, &lt;a href=&quot;https://www.livingsocial.com&quot;&gt;LivingSocial&lt;/a&gt;. &lt;a href=&quot;http://brickalloy.com/&quot;&gt;Brick Alloy&lt;/a&gt; sponsored, also, as they regularly do. Afterward, we all walked over to the Crime Museum for the conference party.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Clojure/West - In March 2014, &lt;a href=&quot;https://www.youtube.com/playlist?list=PLZdCLR02grLp__wRg5OTavVj4wefg69hM&quot;&gt;Clojure/West&lt;/a&gt; was held in San Francisco. A few Lambda Ladies came by and new friends were recruited. Kelsey organized an impromptu dinner where even more local Bay Area Lambda Ladies joined. &lt;a href=&quot;http://cognitect.com/&quot;&gt;Cognitect&lt;/a&gt; was kind enough to sponsor dinner for us. We had a full house at dinner, and then many of us stopped by the conference party afterward.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;OSCON - There were a number of Lambda Ladies speaking at &lt;a href=&quot;http://www.oscon.com/oscon2014&quot;&gt;OSCON 2014&lt;/a&gt; in Portland, OR, so we decided to hold a dinner. Thanks to &lt;a href=&quot;https://puppetlabs.com/&quot;&gt;PuppetLabs&lt;/a&gt; for sponsoring this time. Several of us swung by the conference party at the PuppetLabs offices after dinner.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Conversation at Lambda Ladies dinners is always interesting. Between all of these dinners, I learned about: life at Hacker School, who is using functional programming for what at work, this history of Prolog, and eigenharps. Lambda Ladies have a wide variety of interests, to say the least. I was able to learn more about speakers’ topics, and, in some cases, help calm nerves for those still writing their slide presentation software ahead of their talks.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/oscon-dinner.jpg&quot; style=&quot;width:600px;&quot; alt=&quot;OSCON Lambda Ladies dinner&quot;/&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Strange Loop - There were so many Lambda Ladies speaking, more attending, and many new friends introduced to Lambda Ladies at &lt;a href=&quot;https://thestrangeloop.com/&quot;&gt;Strange Loop&lt;/a&gt; in St Louis in September 2014. So many, in fact, that we threw a party instead of a dinner. We went bowling! &lt;a href=&quot;http://www.fastly.com/&quot;&gt;Fastly&lt;/a&gt; was our sponsor for this great event.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/strangeloop-party.jpg&quot; style=&quot;width:600px;&quot; alt=&quot;Strange Loop Lambda Ladies party&quot;/&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Clojure/Conj - In November 2014, Lambda Ladies and new friends &lt;a href=&quot;http://annapawlicka.com/my-first-conj/&quot;&gt;had dinner&lt;/a&gt; at the &lt;a href=&quot;http://clojure-conj.org/&quot;&gt;Clojure/Conj&lt;/a&gt;, sponsored by my employer, &lt;a href=&quot;https://www.livingsocial.com&quot;&gt;LivingSocial&lt;/a&gt;. &lt;a href=&quot;http://brickalloy.com/&quot;&gt;Brick Alloy&lt;/a&gt; sponsored, also, as it regularly does. Afterward, we all walked over to the Crime Museum for the conference party.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Conversation at Lambda Ladies dinners is always interesting. Between all of these dinners, I learnt about: life at Hacker School, who is using functional programming for what at work, the history of Prolog, and eigenharps. Lambda Ladies have a wide variety of interests, to say the least. I was able to learn more about speakers&amp;#39; topics, and, in some cases, help calm nerves for those still writing their slide presentation software ahead of their talks.&lt;/p&gt;
 
 &lt;p&gt;I hope to see more Lambda Ladies at events in 2015!&lt;/p&gt;
 </description>
