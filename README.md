@@ -1,6 +1,6 @@
 # LambdaLadies.com
 
-This repository holds the source code for [http://www.lambdaladies.com](http://www.lambdaladies.com). The instructions below explain how the Jekyll theme it uses works and how to run a local copy of the website to test any proposed changes. We welcome pull requests.
+This repository holds the source code for [http://www.lambdaladies.com](http://www.lambdaladies.com). The instructions below explain how to run a local copy of the website to test any proposed changes. We welcome pull requests.
 
 If you would like to contribute a blog post to the site, please see [these instructions](CONTRIBUTING.md).
 
