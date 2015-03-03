@@ -32,12 +32,12 @@ The author section of the post includes a reference to an image for the author. 
 
 Add the text of your blog post after the `---`. You can use markdown, or snippets of HTML if you need them. Any images you would like to include should be added to the `images` directory as explained in the previous section. Please take care to avoid unusual characters; keep it to plain text, or use HTML escape characters.
 
-### Build Site (Optional)
+### Build Site (optional)
 
 If you want to build the site locally to check how your changes look, please follow [these instructions](https://github.com/lambdaladies/lambdaladies.github.io#testing-locally). Don't worry if you are unable to do this; we will check to make sure your post looks right.
 
 ### Submit Pull Request
 
-Add and commit your changes the repository and send us a pull request. If everything looks good, we will add your blog post to the site. We may make minor edits for clarity, style, and readability.
+Add and commit your changes to the repository and send us a pull request. If everything looks good, we will add your blog post to the site. We may make minor edits for clarity, style, and readability.
 
 
