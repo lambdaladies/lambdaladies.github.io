@@ -9,4 +9,4 @@ Lambda Ladies was [formed by five functional programmers in March 2013](http://w
 
 Non-members who have a relevant functional programming job post or other announcement they would like posted to the Lambda Ladies mailing list can send it to [the list moderators](https://groups.google.com/d/contactowner/lambda-ladies-functional).
 
-This website is [open source](https://github.com/lambdaladies/lambdaladies.com). You are welcome to help us improve it.
+This website is [open source](https://github.com/lambdaladies/lambdaladies.github.io). You are welcome to help us improve it.
