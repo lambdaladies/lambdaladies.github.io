@@ -6,8 +6,8 @@
     <atom:link href="http://www.lambdaladies.com/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Mon, 02 Mar 2015 23:04:05 +0000</pubDate>
-    <lastBuildDate>Mon, 02 Mar 2015 23:04:05 +0000</lastBuildDate>
+    <pubDate>Sat, 21 May 2016 15:20:46 +0000</pubDate>
+    <lastBuildDate>Sat, 21 May 2016 15:20:46 +0000</lastBuildDate>
 
     
     
@@ -135,7 +135,7 @@ and it kind of has the structure of IF, in that i&amp;#39;m telling a branching 
       <pubDate>Sat, 04 May 2013 07:53:35 +0000</pubDate>
       <author></author>
       <guid>http://www.lambdaladies.com/2013/05/04/the-lambda-ladies-story</guid>
-      <description>&lt;p&gt;Lambda Ladies began in March 2013 when five women who came together online to collaborate on a functional programming conference presentation decided to take the camaraderie they had shared to a wider group. Those software engineers were Rachel Reese, Kelsey Innis, Dana Contreras, Susan Potter and myself, Katie Miller. Although we hadn’t met in person and were far apart geographically, we found we had a shared experience — being one of few women in our local functional programming (FP) communities. We would all like to see more girls and women embracing FP so we decided to do something to encourage that by starting this group. There are focused groups for women using Python, Ruby on Rails, Java, Drupal, PHP and many other languages, frameworks and technologies, but there didn’t seem to be anything for those interested in FP, until now.&lt;/p&gt;
+      <description>&lt;p&gt;Lambda Ladies began in March 2013 when five women who came together online to collaborate on a functional programming conference presentation decided to take the camaraderie they had shared to a wider group. Those software engineers were Rachel Reese, Kelsey Innis, Dana Contreras, Susan Potter and myself, Katie Ots. Although we hadn’t met in person and were far apart geographically, we found we had a shared experience — being one of few women in our local functional programming (FP) communities. We would all like to see more girls and women embracing FP so we decided to do something to encourage that by starting this group. There are focused groups for women using Python, Ruby on Rails, Java, Drupal, PHP and many other languages, frameworks and technologies, but there didn’t seem to be anything for those interested in FP, until now.&lt;/p&gt;
 
 &lt;h3&gt;Why have a group for girls/women? Doesn’t this encourage segregation?&lt;/h3&gt;
 
