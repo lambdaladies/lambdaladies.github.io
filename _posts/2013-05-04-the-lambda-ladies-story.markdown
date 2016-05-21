@@ -8,7 +8,7 @@ tags: functional programming, online community, women in technology, women's tec
 excerpt: Lambda Ladies began in March 2013 when five women came together online to collaborate.
 
 author:
-  name: Katie Miller
+  name: Katie Ots
   twitter: codemiller 
   gplus: KatieMillerCodemiller 
   bio: Lambda Ladies Co-Founder
@@ -16,7 +16,7 @@ author:
 
 ---
 
-Lambda Ladies began in March 2013 when five women who came together online to collaborate on a functional programming conference presentation decided to take the camaraderie they had shared to a wider group. Those software engineers were Rachel Reese, Kelsey Innis, Dana Contreras, Susan Potter and myself, Katie Miller. Although we hadn’t met in person and were far apart geographically, we found we had a shared experience — being one of few women in our local functional programming (FP) communities. We would all like to see more girls and women embracing FP so we decided to do something to encourage that by starting this group. There are focused groups for women using Python, Ruby on Rails, Java, Drupal, PHP and many other languages, frameworks and technologies, but there didn’t seem to be anything for those interested in FP, until now.
+Lambda Ladies began in March 2013 when five women who came together online to collaborate on a functional programming conference presentation decided to take the camaraderie they had shared to a wider group. Those software engineers were Rachel Reese, Kelsey Innis, Dana Contreras, Susan Potter and myself, Katie Ots. Although we hadn’t met in person and were far apart geographically, we found we had a shared experience — being one of few women in our local functional programming (FP) communities. We would all like to see more girls and women embracing FP so we decided to do something to encourage that by starting this group. There are focused groups for women using Python, Ruby on Rails, Java, Drupal, PHP and many other languages, frameworks and technologies, but there didn’t seem to be anything for those interested in FP, until now.
 
 ### Why have a group for girls/women? Doesn’t this encourage segregation?
 

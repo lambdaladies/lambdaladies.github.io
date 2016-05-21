@@ -1,13 +1,22 @@
 # LambdaLadies.com
 
-This repository holds the source code for [http://www.lambdaladies.com](http://www.lambdaladies.com). The instructions below explain how the Jekyll theme it uses works and how to run a local copy of the website to test any proposed changes. Please send pull requests with any suggestions.
+This repository holds the source code for [http://www.lambdaladies.com](http://www.lambdaladies.com). The instructions below explain how to run a local copy of the website to test any proposed changes. We welcome pull requests.
 
-To build and run the site locally:
+If you would like to contribute a blog post to the site, please see [these instructions](CONTRIBUTING.md).
+
+## Testing Locally
+
+To build and run the site locally you will need Ruby (>= 1.9.3), Ruby Gems, and the 'bundle' Gem. Once you have these dependencies installed, fork and clone this repository and run the following commands from the cloned repo: 
 
     git checkout source
-    jekyll serve
+    bundle install
+    jekyll serve --watch
 
-To push changes to the site to GitHub and GitHub Pages:
+Add your changes on the 'source' branch and test them locally. When you are happy with them, please send us a pull request.
+
+## Updating the Site
+
+Those with commit access to this repository can build and push a new version of the site to GitHub and GitHub Pages with the following commands: 
 
     git checkout source
     jekyll serve
@@ -19,38 +28,11 @@ To push changes to the site to GitHub and GitHub Pages:
     git checkout source
     git push --all origin
 
-# Jekyll Incorporated
-Modern Jekyll based blog. Great for companies, products or anything. See live at [blog.sendtoinc.com](http://blog.sendtoinc.com)
+## Jekyll Theme Credits
 
-## Installation & Usage
-    bundle install
-    jekyll serve --watch
+### Authors
 
-_Note: Requires Ruby version 1.9.3 =>. For example use [rbenv](https://github.com/sstephenson/rbenv)_   
-    
-## Configuration
-Edit: _config.yml (general options), main.css (theme colors &amp; fonts)
-
-```
-jekyll-incorporated/
-├── _config.yml
-├── _assets/
-    ├── stylesheets/
-        ├── main.scss
-```
-
-_Note: when editing _config.yml, you need to restart jekyll to see the changes.__
-
-## Usage examples
-
-* Adroll Engineering http://tech.adroll.com/
-* Brace.io blog http://blog.brace.io/
-* Spark.io blog http://blog.spark.io/
-* Department of Better Technology http://blog.dobt.co/
-
-## Authors
-
-Originally build for [sendtoinc.com](https://sendtoinc.com), your workspace for sharing and organizing knowledge
+Originally built for [sendtoinc.com](https://sendtoinc.com), your workspace for sharing and organizing knowledge.
 
 **Karri Saarinen**
 
@@ -62,7 +44,7 @@ Originally build for [sendtoinc.com](https://sendtoinc.com), your workspace for 
 + [http://twitter.com/jorilallo](http://twitter.com/jorilallo)
 + [http://github.com/jorde](http://github.com/jorilallo)
 
-## Copyright and license
+### Copyright and license
 
 Copyright 2013 Kippt Inc. under [The MIT License ](LICENSE)
 
