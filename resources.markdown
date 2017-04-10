@@ -7,6 +7,7 @@ title: Resources
 |------|--------|--------------------|------------|
 |[Learn You A Haskell](http://learnyouahaskell.com)|Online Book|functional programming principles, Haskell syntax, algebraic data types, type classes, recursion, higher-order functions, functional I/O, functors, applicative functors, monoids, monads, zippers|Haskell|
 |[Learn You Some Erlang](http://learnyousomeerlang.com)|Online Book|functional programming principles, recursion, higher-order functions, functional thinking, concurrency, data structures, error handling|Erlang|
+|[Elixir School](http://elixirschool.com/)|Online Lessons|Elixir syntax, functional programming principles, recursion, pattern matching, concurrency, actor pattern/OTP, metaprogramming|Elixir|
 |[Twitter's Scala School](http://twitter.github.io/scala_school/)|Lecture Notes|Scala, collections, pattern matching, polymorphism, types, SBT, concurrency, testing|Scala|
 |[Introduction to Functional Programming with Erik Meijer](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)|Lecture Series|functional programming principles, higher-order functions, recursion, side effects, types, type classes, parsing|Haskell|
 |[Introduction to Haskell](http://www.seas.upenn.edu/~cis194/)|Lecture Series|functional programming principles, static types, algebraic data types, type classes|Haskell|
