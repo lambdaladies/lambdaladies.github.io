@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://www.lambdaladies.com</link>
-    <atom:link href="http://www.lambdaladies.com/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://0.0.0.0:4000</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Sat, 21 May 2016 15:20:46 +0000</pubDate>
-    <lastBuildDate>Sat, 21 May 2016 15:20:46 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Apr 2017 17:43:30 +0000</pubDate>
+    <lastBuildDate>Mon, 10 Apr 2017 17:43:30 +0000</lastBuildDate>
 
     
     
     <item>
       <title>A Year of Lambda Ladies Dinners</title>
-      <link>http://www.lambdaladies.com/2015/03/02/a-year-of-lambda-ladies-dinners/</link>
+      <link>http://0.0.0.0:4000/2015/03/02/a-year-of-lambda-ladies-dinners/</link>
       <pubDate>Mon, 02 Mar 2015 12:00:00 +0000</pubDate>
       <author></author>
-      <guid>http://www.lambdaladies.com/2015/03/02/a-year-of-lambda-ladies-dinners</guid>
+      <guid>http://0.0.0.0:4000/2015/03/02/a-year-of-lambda-ladies-dinners</guid>
       <description>&lt;p&gt;It&amp;#39;s always fun to attend a conference and run into a number of Lambda Ladies. That has happened to me several times over the past year.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -46,10 +46,10 @@
     
     <item>
       <title>Interview with Chris Martens, Programming Languages Ph.D Candidate</title>
-      <link>http://www.lambdaladies.com/2014/09/02/interview-with-chris-martens/</link>
+      <link>http://0.0.0.0:4000/2014/09/02/interview-with-chris-martens/</link>
       <pubDate>Tue, 02 Sep 2014 08:37:19 +0000</pubDate>
       <author></author>
-      <guid>http://www.lambdaladies.com/2014/09/02/interview-with-chris-martens</guid>
+      <guid>http://0.0.0.0:4000/2014/09/02/interview-with-chris-martens</guid>
       <description>&lt;p&gt;Learn more about Chris Martens&amp;#39;s work on logic programming, games, and forging new connections in computational creativity.&lt;/p&gt;
 
 &lt;h3&gt;Who are you and what do you do?&lt;/h3&gt;
@@ -87,7 +87,7 @@
 &lt;h3&gt;Tell us about a game you&amp;#39;ve made!&lt;/h3&gt;
 
 &lt;p&gt;So, I mostly make interactive fiction (IF), except my IF is weird because I don&amp;#39;t really like writing fiction -- I tend to just make these weird little systems that happen to get rendered in text. But recently I&amp;#39;ve been into a 2D games engine called &lt;a href=&quot;http://love2d.org/&quot;&gt;LÖVE2D&lt;/a&gt;, which I used to make a game called &amp;quot;QWOP training run&amp;quot;
-and it kind of has the structure of IF, in that i&amp;#39;m telling a branching story (autobiographical) through it, but it&amp;#39;s superficially just an arcade-like running game (you mash keys to run faster.) The branching points in the story are represented by geographical branching points in the running route. You can &lt;a href=&quot;https://drive.google.com/folderview?id=0B1HJXoh3BOUbU21LcWZiWGVyZ0E&amp;amp;usp=drive_web&quot;&gt;check it out yourself&lt;/a&gt;.&lt;/p&gt;
+and it kind of has the structure of IF, in that i&amp;#39;m telling a branching story (autobiographical) through it, but it&amp;#39;s superficially just an arcade-like running game (you mash keys to run faster.) The branching points in the story are represented by geographical branching points in the running route. You can &lt;a href=&quot;https://drive.google.com/folderview?id=0B1HJXoh3BOUbU21LcWZiWGVyZ0E&amp;usp=drive_web&quot;&gt;check it out yourself&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3&gt;Are you a gamer? What draws you to game design?&lt;/h3&gt;
 
@@ -111,10 +111,10 @@ and it kind of has the structure of IF, in that i&amp;#39;m telling a branching 
     
     <item>
       <title>Erlang User Conference in Stockholm on June 9-10, 2014</title>
-      <link>http://www.lambdaladies.com/2014/04/12/erlang-user-conference/</link>
+      <link>http://0.0.0.0:4000/2014/04/12/erlang-user-conference/</link>
       <pubDate>Sat, 12 Apr 2014 12:13:35 +0000</pubDate>
       <author></author>
-      <guid>http://www.lambdaladies.com/2014/04/12/erlang-user-conference</guid>
+      <guid>http://0.0.0.0:4000/2014/04/12/erlang-user-conference</guid>
       <description>&lt;p&gt;The largest European conference dedicated to Erlang -- the functional language behind WhatsApp&amp;#39;s success -- will feature more than 50 talks on open-source applications, products and war stories from the community. &lt;/p&gt;
 
 &lt;p&gt;The keynotes will be delivered by &lt;a href=&quot;https://twitter.com/codemiller&quot;&gt;Katie Miller&lt;/a&gt;, Lambda Ladies Co-Founder and OpenShift Developer Advocate, and by Stuart Bailey, CTO of Infoblox. &lt;/p&gt;
@@ -131,10 +131,10 @@ and it kind of has the structure of IF, in that i&amp;#39;m telling a branching 
     
     <item>
       <title>The Lambda Ladies story</title>
-      <link>http://www.lambdaladies.com/2013/05/04/the-lambda-ladies-story/</link>
+      <link>http://0.0.0.0:4000/2013/05/04/the-lambda-ladies-story/</link>
       <pubDate>Sat, 04 May 2013 07:53:35 +0000</pubDate>
       <author></author>
-      <guid>http://www.lambdaladies.com/2013/05/04/the-lambda-ladies-story</guid>
+      <guid>http://0.0.0.0:4000/2013/05/04/the-lambda-ladies-story</guid>
       <description>&lt;p&gt;Lambda Ladies began in March 2013 when five women who came together online to collaborate on a functional programming conference presentation decided to take the camaraderie they had shared to a wider group. Those software engineers were Rachel Reese, Kelsey Innis, Dana Contreras, Susan Potter and myself, Katie Ots. Although we hadn’t met in person and were far apart geographically, we found we had a shared experience — being one of few women in our local functional programming (FP) communities. We would all like to see more girls and women embracing FP so we decided to do something to encourage that by starting this group. There are focused groups for women using Python, Ruby on Rails, Java, Drupal, PHP and many other languages, frameworks and technologies, but there didn’t seem to be anything for those interested in FP, until now.&lt;/p&gt;
 
 &lt;h3&gt;Why have a group for girls/women? Doesn’t this encourage segregation?&lt;/h3&gt;
