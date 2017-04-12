@@ -15,5 +15,5 @@ Several Lambda Ladies have given presentations about functional programming. Her
 * Why Haskell? by [Susan Potter](https://twitter.com/susanpotter) ([slides](http://www.slideshare.net/mbbx6spp/why-haskell))
 
 </p>
-If there is something you would like to see added to this page, please send us a [message](https://groups.google.com/d/contactowner/lambda-ladies-functional) or a [pull request](https://github.com/lambdaladies/lambdaladies.com).
+If there is something you would like to see added to this page, please send us a [message](https://groups.google.com/d/contactowner/lambda-ladies-functional) or a [pull request](https://github.com/lambdaladies/lambdaladies.github.io).
 
