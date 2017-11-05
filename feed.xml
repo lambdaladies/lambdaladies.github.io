@@ -6,9 +6,61 @@
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Mon, 10 Apr 2017 17:43:30 +0000</pubDate>
-    <lastBuildDate>Mon, 10 Apr 2017 17:43:30 +0000</lastBuildDate>
+    <pubDate>Sun, 05 Nov 2017 14:49:36 +0000</pubDate>
+    <lastBuildDate>Sun, 05 Nov 2017 14:49:36 +0000</lastBuildDate>
 
+    
+    
+    <item>
+      <title>Q&A with Nada Amin</title>
+      <link>http://0.0.0.0:4000/2017/11/05/interview-with-nada-amin/</link>
+      <pubDate>Sun, 05 Nov 2017 13:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://0.0.0.0:4000/2017/11/05/interview-with-nada-amin</guid>
+      <description>&lt;p&gt;Q&amp;amp;A with &lt;a href=&quot;https://twitter.com/nadamin&quot;&gt;Nada Amin&lt;/a&gt;, &lt;a href=&quot;http://www.codemesh.io/codemesh2017/nada-amin&quot;&gt;who is speaking&lt;/a&gt; at the &lt;a href=&quot;http://www.codemesh.io/codemesh2017&quot;&gt;Code Mesh&lt;/a&gt; conference in London this week.&lt;/p&gt;
+
+&lt;p&gt;Nada is a lecturer at the Computer Laboratory at the University of Cambridge. Previously, she was a member of the Scala team at EPFL. She has contributed to Clojure’s core.logic and Google’s Closure compiler.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/nada-amin.jpeg&quot; style=&quot;width:250px;display:block;margin:auto;&quot; alt=&quot;Nada Amin&quot;/&gt;&lt;/p&gt;
+
+&lt;h3&gt;What are you speaking about at Code Mesh, and what are some of the audience takeaways from your talk?&lt;/h3&gt;
+
+&lt;p&gt;I am speaking about collapsing towers of interpreters. The takeaways are:
+(1) there are principled ways of turning interpreters into compilers
+(2) they can be used to turn a slow tower of interpreters into a one-pass compiler that removes all interpretive overhead
+(3) they even apply to reflective towers of interpreters, where the user can jump up and down levels and where the number of levels is conceptually infinite.&lt;/p&gt;
+
+&lt;h3&gt;How did you get into functional programming? What do you enjoy about it?&lt;/h3&gt;
+
+&lt;p&gt;I got into functional programming by reading Structure and Interpretation of Computer Programs (SICP) in high school.&lt;/p&gt;
+
+&lt;p&gt;I like having the feeling that I can reason through my code before or even without running it.&lt;/p&gt;
+
+&lt;h3&gt;What are you working on at Cambridge at the moment?&lt;/h3&gt;
+
+&lt;p&gt;I am still defining my research agenda.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;ve been working still on collapsing towers, and trying to better understand them in theory and better exploit them in practice. In particular, I&amp;#39;d like to apply the technique to collapsing towers from Scheme to miniKanren to (relational) Scheme.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;ve also been looking at neuro-symbolic reasoning, and my goal would be to be able to go back and forth between symbolic and neural
+representations of a program, so that a program can be partially learned from data. As an example, one could have a domain-specific
+language for harmonizing, and then learn how to harmonize from a corpus of Bach chorales and then extract actual symbolic rules from
+the learning.&lt;/p&gt;
+
+&lt;p&gt;And there are many more such things, old and new, that I&amp;#39;d like to explore.&lt;/p&gt;
+
+&lt;h3&gt;Some functional languages/concepts are challenging. What techniques do you use to teach functional programming, and encourage students to persist with it?&lt;/h3&gt;
+
+&lt;p&gt;I try to give students fun exercises. In terms of techniques, I like to help them derive concepts for themselves: for example, fold can be extracted from working out structural recursion on a few examples.&lt;/p&gt;
+
+&lt;p&gt;Types can also be helpful as a starting point to write a function, and also as an ending point to understand it.&lt;/p&gt;
+
+&lt;h3&gt;Why do you think there are so few women in functional programming compared with other areas of software engineering, and do you have thoughts on what we can do about it?&lt;/h3&gt;
+
+&lt;p&gt;I didn&amp;#39;t realize that it was better in other areas of software engineering...&lt;/p&gt;
+</description>
+    </item>
+    
     
     
     <item>
