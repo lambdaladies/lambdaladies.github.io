@@ -6,8 +6,8 @@
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Sun, 05 Nov 2017 14:49:36 +0000</pubDate>
-    <lastBuildDate>Sun, 05 Nov 2017 14:49:36 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Sep 2018 14:11:52 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Sep 2018 14:11:52 +0000</lastBuildDate>
 
     
     
@@ -38,9 +38,7 @@
 
 &lt;h3&gt;What are you working on at Cambridge at the moment?&lt;/h3&gt;
 
-&lt;p&gt;I am still defining my research agenda.&lt;/p&gt;
-
-&lt;p&gt;I&amp;#39;ve been working still on collapsing towers, and trying to better understand them in theory and better exploit them in practice. In particular, I&amp;#39;d like to apply the technique to collapsing towers from Scheme to miniKanren to (relational) Scheme.&lt;/p&gt;
+&lt;p&gt;I am still defining my research agenda. I&amp;#39;ve been working still on collapsing towers, and trying to better understand them in theory and better exploit them in practice. In particular, I&amp;#39;d like to apply the technique to collapsing towers from Scheme to miniKanren to (relational) Scheme.&lt;/p&gt;
 
 &lt;p&gt;I&amp;#39;ve also been looking at neuro-symbolic reasoning, and my goal would be to be able to go back and forth between symbolic and neural
 representations of a program, so that a program can be partially learned from data. As an example, one could have a domain-specific
@@ -51,7 +49,9 @@ the learning.&lt;/p&gt;
 
 &lt;h3&gt;Some functional languages/concepts are challenging. What techniques do you use to teach functional programming, and encourage students to persist with it?&lt;/h3&gt;
 
-&lt;p&gt;I try to give students fun exercises. In terms of techniques, I like to help them derive concepts for themselves: for example, fold can be extracted from working out structural recursion on a few examples.&lt;/p&gt;
+&lt;p&gt;I try to give students fun exercises.&lt;/p&gt;
+
+&lt;p&gt;In terms of techniques, I like to help them derive concepts for themselves: for example, fold can be extracted from working out structural recursion on a few examples.&lt;/p&gt;
 
 &lt;p&gt;Types can also be helpful as a starting point to write a function, and also as an ending point to understand it.&lt;/p&gt;
 

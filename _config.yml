@@ -127,4 +127,4 @@ assets:
   gzip: [ text/css, application/javascript ]
   debug: false
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
